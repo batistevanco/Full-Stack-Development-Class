@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cp4Qwyiv4Ag=",
+  "dgSpecHash": "D8g5G6/XKLM=",
   "success": true,
-  "projectFilePath": "V:\\MusicStore\\MusicStore\\MusicStore.csproj",
+  "projectFilePath": "W:\\MusicStore\\MusicStore\\MusicStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\batistevancoillie\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

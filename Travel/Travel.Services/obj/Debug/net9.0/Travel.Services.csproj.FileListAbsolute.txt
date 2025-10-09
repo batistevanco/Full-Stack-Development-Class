@@ -1,0 +1,13 @@
+W:\Travel\Travel.Services\bin\Debug\net9.0\Travel.Services.deps.json
+W:\Travel\Travel.Services\bin\Debug\net9.0\Travel.Services.dll
+W:\Travel\Travel.Services\bin\Debug\net9.0\Travel.Services.pdb
+W:\Travel\Travel.Services\obj\Debug\net9.0\Travel.Services.csproj.AssemblyReference.cache
+W:\Travel\Travel.Services\obj\Debug\net9.0\Travel.Services.GeneratedMSBuildEditorConfig.editorconfig
+W:\Travel\Travel.Services\obj\Debug\net9.0\Travel.Services.AssemblyInfoInputs.cache
+W:\Travel\Travel.Services\obj\Debug\net9.0\Travel.Services.AssemblyInfo.cs
+W:\Travel\Travel.Services\obj\Debug\net9.0\Travel.Services.csproj.CoreCompileInputs.cache
+W:\Travel\Travel.Services\obj\Debug\net9.0\Travel.Services.sourcelink.json
+W:\Travel\Travel.Services\obj\Debug\net9.0\Travel.Services.dll
+W:\Travel\Travel.Services\obj\Debug\net9.0\refint\Travel.Services.dll
+W:\Travel\Travel.Services\obj\Debug\net9.0\Travel.Services.pdb
+W:\Travel\Travel.Services\obj\Debug\net9.0\ref\Travel.Services.dll

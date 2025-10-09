@@ -42,9 +42,9 @@
               "Title": "Calculate.cshtml",
               "DocumentMoniker": "X:\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Calculate\\Calculate.cshtml",
               "RelativeDocumentMoniker": "Calculator\\Views\\Calculate\\Calculate.cshtml",
-              "ToolTip": "X:\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Calculate\\Calculate.cshtml*",
-              "RelativeToolTip": "Calculator\\Views\\Calculate\\Calculate.cshtml*",
-              "ViewState": "AgIAAA0AAACgZ2ZmZiYgwBsAAAAiAAAAAAAAAA==",
+              "ToolTip": "X:\\Full-Stack-Development\\Calculator\\Calculator\\Views\\Calculate\\Calculate.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Calculate\\Calculate.cshtml",
+              "ViewState": "AgIAAA8AAACgm5mZmRkmwCIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-02T10:01:43.464Z",
               "EditorCaption": ""
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Calculator\\Controllers\\CalculateController.cs",
               "ToolTip": "X:\\Full-Stack-Development\\Calculator\\Calculator\\Controllers\\CalculateController.cs",
               "RelativeToolTip": "Calculator\\Controllers\\CalculateController.cs",
-              "ViewState": "AgIAABMAAAAAcP/////PvyAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAcP/////Pvx8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T09:21:22.433Z",
               "EditorCaption": ""

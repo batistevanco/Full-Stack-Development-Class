@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcMovies9
 build_property.RootNamespace = MvcMovies9
-build_property.ProjectDir = Z:\GitHub\Full Stack Development\MvcMovies9\MvcMovies9\
+build_property.ProjectDir = V:\MvcMovies9\MvcMovies9\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = Z:\GitHub\Full Stack Development\MvcMovies9\MvcMovies9
+build_property.MSBuildProjectDirectory = V:\MvcMovies9\MvcMovies9
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Home/Index.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Home/Privacy.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Movies/Create.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Movies/Delete.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Movies/Details.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Movies/Edit.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Movies/Index.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Shared/Error.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Shared/_ValidationScriptsPartial.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/_ViewImports.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/_ViewStart.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/GitHub/Full Stack Development/MvcMovies9/MvcMovies9/Views/Shared/_Layout.cshtml]
+[V:/MvcMovies9/MvcMovies9/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q34d886xd1

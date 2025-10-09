@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "X:\\Full-Stack-Development\\Calculator\\Calculator\\Calculator.csproj": {}
+    "V:\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "X:\\Full-Stack-Development\\Calculator\\Calculator\\Calculator.csproj": {
+    "V:\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\Full-Stack-Development\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "V:\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "X:\\Full-Stack-Development\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "V:\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\batistevancoillie\\.nuget\\packages\\",
-        "outputPath": "X:\\Full-Stack-Development\\Calculator\\Calculator\\obj\\",
+        "outputPath": "V:\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

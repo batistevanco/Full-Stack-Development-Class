@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\GitHub\\Full Stack Development\\MvcMovies9\\MvcMovies9\\MvcMovies9.csproj": {}
+    "V:\\MvcMovies9\\MvcMovies9\\MvcMovies9.csproj": {}
   },
   "projects": {
-    "Z:\\GitHub\\Full Stack Development\\MvcMovies9\\MvcMovies9\\MvcMovies9.csproj": {
+    "V:\\MvcMovies9\\MvcMovies9\\MvcMovies9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\GitHub\\Full Stack Development\\MvcMovies9\\MvcMovies9\\MvcMovies9.csproj",
+        "projectUniqueName": "V:\\MvcMovies9\\MvcMovies9\\MvcMovies9.csproj",
         "projectName": "MvcMovies9",
-        "projectPath": "Z:\\GitHub\\Full Stack Development\\MvcMovies9\\MvcMovies9\\MvcMovies9.csproj",
+        "projectPath": "V:\\MvcMovies9\\MvcMovies9\\MvcMovies9.csproj",
         "packagesPath": "C:\\Users\\batistevancoillie\\.nuget\\packages\\",
-        "outputPath": "Z:\\GitHub\\Full Stack Development\\MvcMovies9\\MvcMovies9\\obj\\",
+        "outputPath": "V:\\MvcMovies9\\MvcMovies9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
